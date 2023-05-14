@@ -4,7 +4,7 @@
     name:
       - python36
       - gcc
-      - python3-{{ env }}el
+      - python3-devel
     state: installed
 
 - name: Import app_prereq file
