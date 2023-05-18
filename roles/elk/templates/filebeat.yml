@@ -8,6 +8,7 @@ filebeat.inputs:
     fields:
       component: {{ component }}
 
+
 output.logstash:
   hosts: ["172.31.87.118:5044"]
 
