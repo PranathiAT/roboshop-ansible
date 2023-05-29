@@ -1,5 +1,5 @@
 labels:
   - { tag: Name, label: name }
   - { tag: env, label: env }
-  - { tag: Component, label: component }
+  - { tag: component, label: component }
 
