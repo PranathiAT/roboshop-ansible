@@ -10,7 +10,7 @@ filebeat.inputs:
 
 
 output.logstash:
-  hosts: ["172.31.87.118:5044"]
+  hosts: ["172.31.80.49:5044"]
 
 
 ##defaults
